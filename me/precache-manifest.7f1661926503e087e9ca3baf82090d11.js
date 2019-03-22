@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8cd5eb34058774d9ba2d",
+    "revision": "e2a0066b76bd7301ac2f",
     "url": "css/app.78a9c96b.css"
   },
   {
-    "revision": "8cd5eb34058774d9ba2d",
-    "url": "js/app.50fefe29.js"
+    "revision": "e2a0066b76bd7301ac2f",
+    "url": "js/app.47931647.js"
   },
   {
     "revision": "666cc834739024d7c11e",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "fonts/SourceSansPro-ExtraLightIt.ttf.20c8bb73.woff2"
   },
   {
-    "revision": "ca526e3febf4f1cbfc55944cccf9c3bb",
-    "url": "fonts/SourceSansPro-It.ttf.ca526e3f.woff2"
-  },
-  {
     "revision": "abba6a943f25ed1ead25ae9f490d5c43",
     "url": "fonts/SourceSansPro-LightIt.ttf.abba6a94.woff2"
+  },
+  {
+    "revision": "ca526e3febf4f1cbfc55944cccf9c3bb",
+    "url": "fonts/SourceSansPro-It.ttf.ca526e3f.woff2"
   },
   {
     "revision": "fbe84539eff19eab0ca6f52f1454ba64",
@@ -48,20 +48,28 @@ self.__precacheManifest = [
     "url": "fonts/SourceCodePro-MediumIt.2af5b726.eot"
   },
   {
-    "revision": "a6007c13135b460c59ff6706bbfa1faa",
-    "url": "fonts/SourceCodePro-LightIt.a6007c13.eot"
-  },
-  {
     "revision": "1b78a6d8b0204c453c82aa1b08b32e46",
     "url": "fonts/SourceCodePro-SemiboldIt.1b78a6d8.eot"
+  },
+  {
+    "revision": "a6007c13135b460c59ff6706bbfa1faa",
+    "url": "fonts/SourceCodePro-LightIt.a6007c13.eot"
   },
   {
     "revision": "29759126ac2ef17cedc14aa8658920bf",
     "url": "fonts/SourceCodePro-BoldIt.29759126.eot"
   },
   {
+    "revision": "c7c4bc8563481b7dd2945d15a8876357",
+    "url": "fonts/SourceCodePro-BlackIt.c7c4bc85.eot"
+  },
+  {
     "revision": "bffdea7012d4953623067f93764f030e",
     "url": "fonts/SourceCodePro-ExtraLightIt.ttf.bffdea70.woff2"
+  },
+  {
+    "revision": "d3787f1d8e6445fcc8aca00680efafc4",
+    "url": "fonts/SourceCodePro-It.ttf.d3787f1d.woff2"
   },
   {
     "revision": "1f0986409cfe353b12604629bac1b987",
@@ -70,10 +78,6 @@ self.__precacheManifest = [
   {
     "revision": "28c695fb2461efac8386f2016b401573",
     "url": "fonts/SourceCodePro-MediumIt.ttf.28c695fb.woff2"
-  },
-  {
-    "revision": "d3787f1d8e6445fcc8aca00680efafc4",
-    "url": "fonts/SourceCodePro-It.ttf.d3787f1d.woff2"
   },
   {
     "revision": "b2c9b70e06203d4e286f505334c394ce",
@@ -88,10 +92,6 @@ self.__precacheManifest = [
     "url": "fonts/SourceCodePro-BlackIt.ttf.6c036584.woff2"
   },
   {
-    "revision": "c7c4bc8563481b7dd2945d15a8876357",
-    "url": "fonts/SourceCodePro-BlackIt.c7c4bc85.eot"
-  },
-  {
     "revision": "42afdfc6a798a7355049e9e15a18242c",
     "url": "fonts/SourceSansPro-ExtraLightIt.otf.42afdfc6.woff"
   },
@@ -104,16 +104,24 @@ self.__precacheManifest = [
     "url": "fonts/SourceCodePro-Light.ba12b31b.eot"
   },
   {
-    "revision": "358f7b28a9cb188cd4806d1b5c4e4cb5",
-    "url": "fonts/SourceCodePro-Medium.358f7b28.eot"
-  },
-  {
     "revision": "d5892edc24a4ec262052ebb4dcb3fec8",
     "url": "fonts/SourceCodePro-Regular.d5892edc.eot"
   },
   {
+    "revision": "358f7b28a9cb188cd4806d1b5c4e4cb5",
+    "url": "fonts/SourceCodePro-Medium.358f7b28.eot"
+  },
+  {
     "revision": "b01ff9c3c4d4bd843634e697a5b13ca1",
     "url": "fonts/SourceCodePro-Semibold.b01ff9c3.eot"
+  },
+  {
+    "revision": "32cdd791755837cf7c6fd966c953585a",
+    "url": "fonts/SourceCodePro-Bold.32cdd791.eot"
+  },
+  {
+    "revision": "0297c60f455bfab5d654e9e56442c9f7",
+    "url": "fonts/SourceCodePro-Black.0297c60f.eot"
   },
   {
     "revision": "6e5fd6d466a8c3a8dec63d674af66623",
@@ -124,36 +132,24 @@ self.__precacheManifest = [
     "url": "fonts/SourceCodePro-Light.ttf.10a6dcd4.woff2"
   },
   {
-    "revision": "8fcd3359d7bc0182dc9b0f4f63033e90",
-    "url": "fonts/SourceCodePro-Medium.ttf.8fcd3359.woff2"
-  },
-  {
     "revision": "f43ea4c5ac35312e1fc76a6b6a2e06f0",
     "url": "fonts/SourceCodePro-Regular.ttf.f43ea4c5.woff2"
+  },
+  {
+    "revision": "8fcd3359d7bc0182dc9b0f4f63033e90",
+    "url": "fonts/SourceCodePro-Medium.ttf.8fcd3359.woff2"
   },
   {
     "revision": "9744f877fc5b6cb47c2868e8c5340779",
     "url": "fonts/SourceCodePro-Semibold.ttf.9744f877.woff2"
   },
   {
-    "revision": "f56baef8e8e6dbd932e6797fb433d81d",
-    "url": "fonts/SourceCodePro-Black.ttf.f56baef8.woff2"
-  },
-  {
     "revision": "dcedf356da9362fa2c696ba39ede3a43",
     "url": "fonts/SourceCodePro-Bold.ttf.dcedf356.woff2"
   },
   {
-    "revision": "0297c60f455bfab5d654e9e56442c9f7",
-    "url": "fonts/SourceCodePro-Black.0297c60f.eot"
-  },
-  {
-    "revision": "32cdd791755837cf7c6fd966c953585a",
-    "url": "fonts/SourceCodePro-Bold.32cdd791.eot"
-  },
-  {
-    "revision": "79710ea185543988ee919374c2e637e3",
-    "url": "fonts/SourceSansPro-ExtraLight.ttf.79710ea1.woff2"
+    "revision": "f56baef8e8e6dbd932e6797fb433d81d",
+    "url": "fonts/SourceCodePro-Black.ttf.f56baef8.woff2"
   },
   {
     "revision": "fc5755a4eedc1fe8b423094472dba7c3",
@@ -164,16 +160,20 @@ self.__precacheManifest = [
     "url": "fonts/SourceSansPro-It.otf.8c69dcba.woff"
   },
   {
+    "revision": "79710ea185543988ee919374c2e637e3",
+    "url": "fonts/SourceSansPro-ExtraLight.ttf.79710ea1.woff2"
+  },
+  {
+    "revision": "9791048078dc8146863129ec6299c437",
+    "url": "fonts/SourceCodePro-LightIt.otf.97910480.woff"
+  },
+  {
     "revision": "bd9af36ed4710820c7c76c895c2a5f7f",
     "url": "fonts/SourceCodePro-It.otf.bd9af36e.woff"
   },
   {
     "revision": "e257250436e7559bcc65ddd3fb9321ec",
     "url": "fonts/SourceCodePro-ExtraLightIt.otf.e2572504.woff"
-  },
-  {
-    "revision": "9791048078dc8146863129ec6299c437",
-    "url": "fonts/SourceCodePro-LightIt.otf.97910480.woff"
   },
   {
     "revision": "235130c28e6e70df3804bb6c4085005c",
@@ -188,6 +188,10 @@ self.__precacheManifest = [
     "url": "fonts/SourceCodePro-BoldIt.otf.dc4c805b.woff"
   },
   {
+    "revision": "c41d6417352c08c107db84954a0e6b81",
+    "url": "fonts/SourceCodePro-BlackIt.otf.c41d6417.woff"
+  },
+  {
     "revision": "cee2125bd4c2bda53fa8d89a0cadda2c",
     "url": "fonts/SourceSansPro-Light.ttf.cee2125b.woff2"
   },
@@ -198,10 +202,6 @@ self.__precacheManifest = [
   {
     "revision": "5c0f519297ea97db4f2912905aeeb6cb",
     "url": "fonts/SourceSansPro-Regular.ttf.5c0f5192.woff2"
-  },
-  {
-    "revision": "c41d6417352c08c107db84954a0e6b81",
-    "url": "fonts/SourceCodePro-BlackIt.otf.c41d6417.woff"
   },
   {
     "revision": "2a9a3c984d315d2879042f1ba28ea33f",
@@ -236,28 +236,32 @@ self.__precacheManifest = [
     "url": "fonts/SourceCodePro-Black.otf.15225489.woff"
   },
   {
-    "revision": "a7294e5cbe68c7943bd4f9dbbc00ad69",
-    "url": "fonts/SourceSansPro-It.a7294e5c.otf"
+    "revision": "6257d6c642f1893791faf0bb058a79d7",
+    "url": "fonts/SourceSansPro-LightIt.6257d6c6.otf"
   },
   {
     "revision": "7f823257c5190f6cd104160d59f66e6c",
     "url": "fonts/SourceSansPro-BlackIt.7f823257.otf"
   },
   {
-    "revision": "6257d6c642f1893791faf0bb058a79d7",
-    "url": "fonts/SourceSansPro-LightIt.6257d6c6.otf"
+    "revision": "a7294e5cbe68c7943bd4f9dbbc00ad69",
+    "url": "fonts/SourceSansPro-It.a7294e5c.otf"
+  },
+  {
+    "revision": "f61110ca65f6bcfca4d1aeb3ca8b3e73",
+    "url": "fonts/SourceSansPro-BlackIt.f61110ca.ttf"
   },
   {
     "revision": "d89fffe99ded30ad5f46e3f6380c2913",
     "url": "fonts/SourceCodePro-ExtraLightIt.d89fffe9.otf"
   },
   {
-    "revision": "13ed3db1ddcea30c57b18971e4ec8f73",
-    "url": "fonts/SourceCodePro-It.13ed3db1.otf"
-  },
-  {
     "revision": "4e272d3449cb55d42b6a7553bf973945",
     "url": "fonts/SourceCodePro-MediumIt.4e272d34.otf"
+  },
+  {
+    "revision": "13ed3db1ddcea30c57b18971e4ec8f73",
+    "url": "fonts/SourceCodePro-It.13ed3db1.otf"
   },
   {
     "revision": "cb99819fda3f54353255e428b45cffa2",
@@ -276,28 +280,20 @@ self.__precacheManifest = [
     "url": "fonts/SourceSansPro-It.1c9a55c7.ttf"
   },
   {
-    "revision": "f61110ca65f6bcfca4d1aeb3ca8b3e73",
-    "url": "fonts/SourceSansPro-BlackIt.f61110ca.ttf"
-  },
-  {
     "revision": "191657a5f783cfbef7b5c55246a2c0f1",
     "url": "fonts/SourceCodePro-LightIt.191657a5.otf"
-  },
-  {
-    "revision": "ef61c0a4dee35652febea6e93e3ef24a",
-    "url": "fonts/SourceCodePro-BlackIt.ef61c0a4.otf"
   },
   {
     "revision": "ebb7f769a18e040ef80fa061000ca465",
     "url": "fonts/SourceCodePro-BoldIt.ebb7f769.otf"
   },
   {
-    "revision": "7e280f054f7ef5ae97de69abbedc636b",
-    "url": "fonts/SourceSansPro-ExtraLight.otf.7e280f05.woff"
+    "revision": "ef61c0a4dee35652febea6e93e3ef24a",
+    "url": "fonts/SourceCodePro-BlackIt.ef61c0a4.otf"
   },
   {
-    "revision": "20964ddec742937a7f153247edf5c09e",
-    "url": "fonts/SourceCodePro-Regular.20964dde.otf"
+    "revision": "7e280f054f7ef5ae97de69abbedc636b",
+    "url": "fonts/SourceSansPro-ExtraLight.otf.7e280f05.woff"
   },
   {
     "revision": "c23505a54557fe1136f3510e6c8ecb22",
@@ -312,6 +308,10 @@ self.__precacheManifest = [
     "url": "fonts/SourceCodePro-Medium.9db14b70.otf"
   },
   {
+    "revision": "20964ddec742937a7f153247edf5c09e",
+    "url": "fonts/SourceCodePro-Regular.20964dde.otf"
+  },
+  {
     "revision": "fd020cec8a5ae2a7210d8bf29eb6d3b4",
     "url": "fonts/SourceCodePro-Semibold.fd020cec.otf"
   },
@@ -324,16 +324,16 @@ self.__precacheManifest = [
     "url": "fonts/SourceSansPro-Regular.otf.90b3418f.woff"
   },
   {
+    "revision": "d6387291446e764faa820e46775e109d",
+    "url": "fonts/SourceSansPro-Semibold.otf.d6387291.woff"
+  },
+  {
     "revision": "51ada6ced5065946501d9b8244a7879f",
     "url": "fonts/SourceCodePro-Bold.51ada6ce.otf"
   },
   {
     "revision": "f141a8e3419cec0737d18452f7fccdf8",
     "url": "fonts/SourceCodePro-Black.f141a8e3.otf"
-  },
-  {
-    "revision": "d6387291446e764faa820e46775e109d",
-    "url": "fonts/SourceSansPro-Semibold.otf.d6387291.woff"
   },
   {
     "revision": "de6c0dd91e4097f07e5192e9684e8a60",
@@ -344,6 +344,10 @@ self.__precacheManifest = [
     "url": "fonts/SourceSansPro-BoldIt.ttf.5bdabebc.woff2"
   },
   {
+    "revision": "c053d3c5121a2dec272af8820a5929ad",
+    "url": "fonts/SourceCodePro-LightIt.c053d3c5.ttf"
+  },
+  {
     "revision": "871d88fbe37f7feeb5b1c2f575d9cb34",
     "url": "fonts/SourceCodePro-ExtraLightIt.871d88fb.ttf"
   },
@@ -352,20 +356,16 @@ self.__precacheManifest = [
     "url": "fonts/SourceCodePro-MediumIt.7289b325.ttf"
   },
   {
-    "revision": "c053d3c5121a2dec272af8820a5929ad",
-    "url": "fonts/SourceCodePro-LightIt.c053d3c5.ttf"
-  },
-  {
-    "revision": "83893e6b3705db2b59c893600493a220",
-    "url": "fonts/SourceCodePro-SemiboldIt.83893e6b.ttf"
-  },
-  {
     "revision": "d77c7593ff187c79a73360a5edd1da75",
     "url": "fonts/SourceCodePro-BoldIt.d77c7593.ttf"
   },
   {
     "revision": "b4c4286f28bde6346a42b0789579bbd9",
     "url": "fonts/SourceCodePro-BlackIt.b4c4286f.ttf"
+  },
+  {
+    "revision": "83893e6b3705db2b59c893600493a220",
+    "url": "fonts/SourceCodePro-SemiboldIt.83893e6b.ttf"
   },
   {
     "revision": "60e71696d692f075e44b3026d742d8a8",
@@ -380,6 +380,10 @@ self.__precacheManifest = [
     "url": "fonts/SourceSansPro-BlackIt.otf.0e2f3d03.woff"
   },
   {
+    "revision": "fc3e95520afb7e2a0e67857ad4c2aba4",
+    "url": "fonts/SourceSansPro-Black.ttf.fc3e9552.woff2"
+  },
+  {
     "revision": "e7850364e3e1eb62a0bb4438dd6ff4d2",
     "url": "fonts/SourceSansPro-BoldIt.otf.e7850364.woff"
   },
@@ -388,40 +392,40 @@ self.__precacheManifest = [
     "url": "fonts/SourceSansPro-SemiboldIt.otf.a9c408b7.woff"
   },
   {
-    "revision": "1066e54d79f902a2ff4d864c9a38a183",
-    "url": "fonts/SourceCodePro-Regular.1066e54d.ttf"
+    "revision": "19e9f35589c9abb072755df4ab19175c",
+    "url": "fonts/SourceSansPro-Bold.ttf.19e9f355.woff2"
   },
   {
-    "revision": "472c7e7a808efce9161fb8f27535bf22",
-    "url": "fonts/SourceCodePro-Medium.472c7e7a.ttf"
+    "revision": "1066e54d79f902a2ff4d864c9a38a183",
+    "url": "fonts/SourceCodePro-Regular.1066e54d.ttf"
   },
   {
     "revision": "0f54274d1c32d7255172e7feda5a2c11",
     "url": "fonts/SourceCodePro-Semibold.0f54274d.ttf"
   },
   {
-    "revision": "e84e1034c3cc643db2c2787d5fa04d53",
-    "url": "fonts/SourceCodePro-Black.e84e1034.ttf"
+    "revision": "472c7e7a808efce9161fb8f27535bf22",
+    "url": "fonts/SourceCodePro-Medium.472c7e7a.ttf"
   },
   {
     "revision": "a3c3082872743102af82207d10076209",
     "url": "fonts/SourceCodePro-Bold.a3c30828.ttf"
   },
   {
-    "revision": "19e9f35589c9abb072755df4ab19175c",
-    "url": "fonts/SourceSansPro-Bold.ttf.19e9f355.woff2"
+    "revision": "e84e1034c3cc643db2c2787d5fa04d53",
+    "url": "fonts/SourceCodePro-Black.e84e1034.ttf"
   },
   {
-    "revision": "fc3e95520afb7e2a0e67857ad4c2aba4",
-    "url": "fonts/SourceSansPro-Black.ttf.fc3e9552.woff2"
+    "revision": "cf1c1e30cdd58629e6c71e18aac4096a",
+    "url": "fonts/SourceCodePro-Light.cf1c1e30.ttf"
   },
   {
     "revision": "e91271c3103f76d25ede07af3fe5a33a",
     "url": "fonts/SourceCodePro-ExtraLight.e91271c3.ttf"
   },
   {
-    "revision": "cf1c1e30cdd58629e6c71e18aac4096a",
-    "url": "fonts/SourceCodePro-Light.cf1c1e30.ttf"
+    "revision": "b6e20e05d5fc3569ad658d2464e30691",
+    "url": "fonts/SourceSansPro-BoldIt.b6e20e05.otf"
   },
   {
     "revision": "1ce6e39e9eeda15ea8395f69cb414764",
@@ -432,8 +436,8 @@ self.__precacheManifest = [
     "url": "fonts/SourceSansPro-BoldIt.c2ebd385.ttf"
   },
   {
-    "revision": "cf7ad074cf9ba2ef23e036076bfaa7b6",
-    "url": "fonts/SourceSansPro-Light.cf7ad074.ttf"
+    "revision": "e5b0b69e987e9199d2f072284a2b7121",
+    "url": "fonts/SourceSansPro-SemiboldIt.e5b0b69e.ttf"
   },
   {
     "revision": "0033199cdbdfb77eee2c80479d61fb6e",
@@ -444,12 +448,16 @@ self.__precacheManifest = [
     "url": "fonts/SourceSansPro-Light.c3ebad2f.otf"
   },
   {
-    "revision": "b7e3146cf2b5945e959a03f33000e64c",
-    "url": "fonts/SourceSansPro-ExtraLight.b7e3146c.ttf"
+    "revision": "cf7ad074cf9ba2ef23e036076bfaa7b6",
+    "url": "fonts/SourceSansPro-Light.cf7ad074.ttf"
   },
   {
-    "revision": "b6e20e05d5fc3569ad658d2464e30691",
-    "url": "fonts/SourceSansPro-BoldIt.b6e20e05.otf"
+    "revision": "0a84f4efb63be1fac361afd6ce676a93",
+    "url": "fonts/SourceSansPro-Semibold.0a84f4ef.ttf"
+  },
+  {
+    "revision": "b7e3146cf2b5945e959a03f33000e64c",
+    "url": "fonts/SourceSansPro-ExtraLight.b7e3146c.ttf"
   },
   {
     "revision": "c685b72edfce430e96b25f999849be40",
@@ -460,24 +468,16 @@ self.__precacheManifest = [
     "url": "fonts/SourceSansPro-Bold.otf.4c387827.woff"
   },
   {
+    "revision": "ba2040e02c2f8efedb2aba500d9346c0",
+    "url": "fonts/SourceSansPro-Regular.ba2040e0.otf"
+  },
+  {
     "revision": "881b7e6aad066724af994de318cbf615",
     "url": "fonts/SourceSansPro-Regular.881b7e6a.ttf"
   },
   {
     "revision": "7e443451ebde7c4954b767f8dafa2c5a",
     "url": "fonts/SourceSansPro-Semibold.7e443451.otf"
-  },
-  {
-    "revision": "0a84f4efb63be1fac361afd6ce676a93",
-    "url": "fonts/SourceSansPro-Semibold.0a84f4ef.ttf"
-  },
-  {
-    "revision": "ba2040e02c2f8efedb2aba500d9346c0",
-    "url": "fonts/SourceSansPro-Regular.ba2040e0.otf"
-  },
-  {
-    "revision": "e5b0b69e987e9199d2f072284a2b7121",
-    "url": "fonts/SourceSansPro-SemiboldIt.e5b0b69e.ttf"
   },
   {
     "revision": "604a59706d4852f5f5c5362aa035ccf9",
@@ -532,171 +532,19 @@ self.__precacheManifest = [
     "url": "img/host.0477be6a.svg"
   },
   {
-    "revision": "edb9d3f016eda93bc2a190b7dd4e8779",
+    "revision": "e57fb415b7b5cce35d3a4f4a77c9a99b",
     "url": "index.html"
   },
   {
-    "revision": "6d8e18f7d825e1ad9c60458b139e6123",
-    "url": "android-chrome-36x36.png"
-  },
-  {
-    "revision": "3b2ba892edcd32358fa140f487cbc425",
-    "url": "android-chrome-144x144.png"
-  },
-  {
-    "revision": "507fae4a5b921c7bf6b0f42a65ad81ce",
-    "url": "android-chrome-48x48.png"
-  },
-  {
-    "revision": "09956479f3f2c55eae8bbadc47ca266f",
-    "url": "android-chrome-72x72.png"
-  },
-  {
-    "revision": "6e506fb4a954266fd631cfff64cffeac",
-    "url": "android-chrome-96x96.png"
-  },
-  {
-    "revision": "d6d99a86b09c5f05cba6dbdd7fd3a058",
-    "url": "apple-touch-icon-114x114-precomposed.png"
-  },
-  {
-    "revision": "41fa361537406c514b62fd578f6bdf0f",
-    "url": "apple-touch-icon-114x114.png"
-  },
-  {
-    "revision": "5a8dacb340a8c408f65c2267b5953274",
-    "url": "apple-touch-icon-120x120-precomposed.png"
-  },
-  {
-    "revision": "26609b9402284edaae7800bbb7c1b05d",
-    "url": "apple-touch-icon-120x120.png"
-  },
-  {
-    "revision": "ac833777542e28fdbbfdd660649a46a3",
-    "url": "apple-touch-icon-144x144-precomposed.png"
-  },
-  {
-    "revision": "5130a4b60d8fd76a9b50caa3cba3c096",
-    "url": "apple-touch-icon-144x144.png"
-  },
-  {
-    "revision": "1f729f27dd62e318df8a38a3013eacd7",
-    "url": "apple-touch-icon-152x152-precomposed.png"
-  },
-  {
-    "revision": "40f93bb5e68accc1acff0a3b68f3fa9d",
-    "url": "apple-touch-icon-152x152.png"
-  },
-  {
-    "revision": "7b2350f4a6e621b86f46d8b7b802b812",
-    "url": "apple-touch-icon-180x180-precomposed.png"
-  },
-  {
-    "revision": "949182dcf0904a4e55b6198389374bcc",
-    "url": "apple-touch-icon-57x57-precomposed.png"
-  },
-  {
-    "revision": "43f2b6062aa018cdc4eb8eee802c02ea",
-    "url": "apple-touch-icon-180x180.png"
-  },
-  {
-    "revision": "1f7acddb04bd3d1552b4a09e120b1856",
-    "url": "apple-touch-icon-57x57.png"
-  },
-  {
-    "revision": "58cd35f9d1ea55d727eda3963aacc06c",
-    "url": "apple-touch-icon-60x60-precomposed.png"
-  },
-  {
-    "revision": "22b33e3b0bb6f6e4d400d384dbab7e43",
-    "url": "apple-touch-icon-60x60.png"
-  },
-  {
-    "revision": "a01025b0506ead3427556bcc8e90655d",
-    "url": "apple-touch-icon-72x72-precomposed.png"
-  },
-  {
-    "revision": "0517577146c135ee2c501f8bb508cf18",
-    "url": "apple-touch-icon-72x72.png"
-  },
-  {
-    "revision": "5983fd9a98eeda9d83d2cb6867d6601b",
-    "url": "apple-touch-icon-76x76-precomposed.png"
-  },
-  {
-    "revision": "6af2c23cbeec98533aef957f2634c5e8",
-    "url": "apple-touch-icon-76x76.png"
-  },
-  {
-    "revision": "dff6f306cd2ba5d3ff01d87a50706bbd",
-    "url": "apple-touch-icon.png"
-  },
-  {
-    "revision": "94382ca9cda4ae5f7fdcf5ee7d26b3d1",
-    "url": "apple-touch-icon-precomposed.png"
-  },
-  {
-    "revision": "ae0d491c0aae455f6c49a256f6bc989f",
+    "revision": "697d429f4a2abe99b5613c6ccd8bccad",
     "url": "browserconfig.xml"
-  },
-  {
-    "revision": "d9a2493eff11d2ce7c90c47529daa071",
-    "url": "favicon-16x16.png"
-  },
-  {
-    "revision": "79d99a047e9a1c8eae534ad2561f05d6",
-    "url": "favicon-194x194.png"
-  },
-  {
-    "revision": "03a7fe7e0212b3b7c0f73bbc651a0d81",
-    "url": "favicon-32x32.png"
-  },
-  {
-    "revision": "754a2d946fb4a1750f7fcfd847595be6",
-    "url": "mstile-144x144.png"
-  },
-  {
-    "revision": "0067e159d1baf4abbe84861d86dacf11",
-    "url": "mstile-150x150.png"
-  },
-  {
-    "revision": "874c1596a726193c07f20825156eb5dc",
-    "url": "mstile-310x150.png"
-  },
-  {
-    "revision": "ba3f405132cb269c0cde310d9b9d665f",
-    "url": "mstile-70x70.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "robots.txt"
   },
   {
-    "revision": "5fe23b7454b5a993389ea78f06d47016",
-    "url": "safari-pinned-tab.svg"
-  },
-  {
-    "revision": "47b96185138eef8a69d705b1956b2300",
-    "url": "android-chrome-192x192.png"
-  },
-  {
-    "revision": "b2f935aca7e0d92e31d3e629927e848a",
+    "revision": "e772069d56a4d9328fcc0c8a4cd18d4f",
     "url": "site.webmanifest"
-  },
-  {
-    "revision": "35f3e15d25eadc1a22a6e13085731c6f",
-    "url": "android-chrome-256x256.png"
-  },
-  {
-    "revision": "eaeae4268cf97fe2d41db0bf31bea8db",
-    "url": "mstile-310x310.png"
-  },
-  {
-    "revision": "3e91370b837a4e31d44f9d2896a554b2",
-    "url": "android-chrome-384x384.png"
-  },
-  {
-    "revision": "617e4b452adcf7fa29013c7a58959642",
-    "url": "android-chrome-512x512.png"
   }
 ];
