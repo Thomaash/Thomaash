@@ -2,10 +2,10 @@ html,
 body {
   background-color: #409080;
   color: #ffffff;
-
-  margin: 0px;
-  padding: 0px;
-  padding-bottom: 4em;
+  font-size: large;
+  margin: 0rem;
+  padding-bottom: 4rem;
+  padding: 0rem;
 }
 
 body > * {
@@ -13,48 +13,39 @@ body > * {
   padding-right: 1rem;
 }
 
-dl,
-p,
-ul {
-  margin: 3em auto;
-  max-width: 40rem;
-}
-
-h2 > div,
-h3 > div {
-  margin: 0px auto;
-  max-width: 40rem;
-}
-
-dl > dt {
-  font-weight: bold;
-  margin-top: 1em;
-}
-dl > dd {
-  margin-top: 0.5em;
+h1,
+p {
+  font-size: 1rem;
+  margin: 2rem auto;
+  max-width: 30em;
 }
 
 h1 {
-  font-size: 4em;
-  margin-bottom: 3em;
-  margin-top: 3em;
+  font-size: 4rem;
+  margin-bottom: 14rem;
+  margin-top: 14rem;
   text-align: center;
 }
-h2 {
-  border-top: 1px solid #ffffff;
-  font-size: 2em;
-  padding-top: 1rem;
-  text-align: right;
-  text-align: right;
+h1 > span {
+  display: inline-block;
+  position: relative;
 }
-h3 {
-  font-size: 2em;
-  text-align: left;
+h1 > span > sub {
+  font-size: 0.25em;
+  left: 50%;
+  opacity: 0.5;
+  position: absolute;
+  top: 4.5em;
+  transform: translate(-50%, 0);
+  white-space: nowrap;
 }
 
-h2,
-:not(h2) + h3 {
-  margin-top: 4em;
+.faint {
+  opacity: 0.5;
+}
+
+.bigger {
+  font-size: 1.5em;
 }
 
 a,
